@@ -36,3 +36,7 @@ The dataset contains global AI and machine learning salary data collected from p
 - 📊 **Data Representation:** Plotted median salary for each country with available data.
 - 👁️ **Visual Enhancement:** Improved readability and immediate understanding of geographic salary trends.
 - 💡 **Insights Gained:** Enables quick grasp of global salary disparities and highlights high/low salary regions.
+
+## Conclusion
+
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from Kaggle, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
