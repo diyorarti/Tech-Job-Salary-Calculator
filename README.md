@@ -5,7 +5,7 @@
 This AI and machine learning jobs' salaries dashboard is designed to help job seekers understand the current job market and uncover hidden patterns by transforming raw data into clear, visual insights.
 
 ### Dashboard file
-[AI_&_ML_Job_Salaries_Dashboard.xlsx](AI_&_ML_Job_Salaries_Dashboard.xlsx).
+[AI_&AI_&_ML_Job_Salaries_Dashboard_last_version.xlsx](AI_&_ML_Job_Salaries_Dashboard_last_version.xlsx).
 
 ### Excel Skills Used
 The following Excel skills were utilized for analysis:
