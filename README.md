@@ -19,7 +19,8 @@ The dataset contains global AI and machine learning salary data collected from p
 ## Charts
 #### 📊  Job Salaries - Bar Chart
 <img src="/assets/Job_salary_bar_chart.png" width="850" height="550" alt="Salary Dashboard Chart1">
-- 🛠️ **Excel Features:** - Used bar charts and Excel formulas to analyze salary data by calculating average salaries across job titles, countries, and schedule types.
-- 🎨 **Design Choice:** - Horizontal bar chart for visual comparison of median salaries.
-- 📉 **Data Organization:** - Sorted job titles by descending salary for improved readability.
-- 💡 **Insights Gained:** - Easily identified that AI/ML roles are higher paid than traditional data roles.
+- 🛠️ **Excel Features:** - Used bar charts and Excel formulas to analyze salary data by calculating average salaries across job titles, countries, and schedule types.                
+- 🎨 **Design Choice:** - Horizontal bar chart for visual comparison of median salaries.                               
+- 📉 **Data Organization:** - Sorted job titles by descending salary for improved readability.            
+- 💡 **Insights Gained:** - Easily identified that AI/ML roles are higher paid than traditional data roles.              
+
